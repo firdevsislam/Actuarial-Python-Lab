@@ -17,3 +17,28 @@ This repository serves as a digital laboratory where I implement actuarial formu
 ---
 *Author: Firdevs İslam*
 
+
+
+---
+
+## 🚀 Project 2: Insurance Premium Prediction (Machine Learning)
+
+In this project, I built a **Linear Regression Model** to predict future insurance charges based on individual risk factors.
+
+### 🎯 Goal
+To transition from descriptive analytics to **predictive modeling** in the insurance domain using Scikit-Learn.
+
+### 🛠️ Tech Stack
+* **Python:** Pandas, NumPy
+* **ML Library:** Scikit-Learn (Linear Regression)
+* **Visualization:** Matplotlib, Seaborn
+
+### 📊 Key Findings
+* **Model Accuracy ($R^2$ Score):** 0.78 (The model explains 78% of the variance).
+* **Top Risk Factors:** Smoking status and BMI showed the highest correlation with charges.
+* **Result:** Successfully predicted insurance premiums with high accuracy using a linear approach.
+
+### 📈 Model Performance
+Below is the comparison between Actual Charges vs. Predicted Charges:
+
+![Model Performance Graph](insurance_prediction_graph.png)
